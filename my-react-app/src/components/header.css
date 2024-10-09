@@ -1,0 +1,12 @@
+.navb li{
+    text-decoration: none;
+    padding: 40px;
+    display: inline;
+    
+}
+.navb a {
+    color: #000;
+}
+.navb{
+    top: 0%;
+}
